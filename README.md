@@ -196,14 +196,14 @@ VisualizeTree(Dot_Data)
 
 
     
-![png](README_files/README_19_1.png)
+![png](images/README_19_1.png)
     
 
 
 
 
     
-![png](README_files/README_19_2.png)
+![png](images/README_19_2.png)
     
 
 
