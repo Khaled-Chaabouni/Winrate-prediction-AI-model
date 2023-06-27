@@ -14,7 +14,7 @@ Before running the model, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
 
- git clone https://github.com/Khaled-Chaabouni/Winrate-prediction-AI-model.git
+ >git clone https://github.com/Khaled-Chaabouni/Winrate-prediction-AI-model.git
 
 2. Navigate to the project directory:
 
