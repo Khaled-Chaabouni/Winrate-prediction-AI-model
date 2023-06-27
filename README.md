@@ -263,11 +263,3 @@ VisualizeTree(Dot_Data)
 
     
 ![png](images/README_19_2.png)
-    
-
-
-
-```python
-
-```
-
