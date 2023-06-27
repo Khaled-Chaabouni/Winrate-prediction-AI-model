@@ -18,15 +18,15 @@ Before running the model, make sure you have the following installed:
 
 2. Navigate to the project directory:
 
- cd league-win-prediction
+ >cd league-win-prediction
 
 3. Install the required dependencies using the provided `requirements.txt` file:
 
- pip install -r requirements.txt
+ >pip install -r requirements.txt
 
 4. Execute the following command to launch Jupyter Notebook: 
 
- jupyter notebook
+ >jupyter notebook
 
 
 This will open the Jupyter Notebook dashboard in your web browser.
