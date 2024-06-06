@@ -1,7 +1,7 @@
 # League of Legends Win Prediction Model
 
 This is a simple machine learning model that predicts the chance of winning a League of Legends match based on various factors such as individual win rates, presence of AFK/intentional feeders, troll picks, and team side (blue or red).
-![png](images/Winrate_Prediction_Model_-_Poster.png)
+![png](images/Winrate%20Prediction%20Model%20-%20Poster.png)
     
 
 ## Prerequisites
